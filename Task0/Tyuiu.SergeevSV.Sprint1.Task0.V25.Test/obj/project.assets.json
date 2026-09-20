@@ -393,6 +393,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib.dll": {}
+        }
       }
     }
   },
@@ -1058,6 +1068,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/1.0.0": {
+      "type": "project",
+      "path": "../Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib.csproj",
+      "msbuildProject": "../Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1065,6 +1080,7 @@
       "MSTest.TestAdapter >= 3.0.4",
       "MSTest.TestFramework >= 3.0.4",
       "Microsoft.NET.Test.Sdk >= 17.6.0",
+      "Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib >= 1.0.0",
       "coverlet.collector >= 6.0.0"
     ]
   },
@@ -1074,9 +1090,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Test/Tyuiu.SergeevSV.Sprint1.Task0.V0.Test.csproj",
-      "projectName": "Tyuiu.SergeevSV.Sprint1.Task0.V0.Test",
-      "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Test/Tyuiu.SergeevSV.Sprint1.Task0.V0.Test.csproj",
+      "projectUniqueName": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Test/Tyuiu.SergeevSV.Sprint1.Task0.V25.Test.csproj",
+      "projectName": "Tyuiu.SergeevSV.Sprint1.Task0.V25.Test",
+      "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Test/Tyuiu.SergeevSV.Sprint1.Task0.V25.Test.csproj",
       "packagesPath": "/home/gres/.nuget/packages/",
       "outputPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Test/obj/",
       "projectStyle": "PackageReference",
@@ -1092,7 +1108,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib.csproj": {
+              "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
