@@ -4,14 +4,14 @@
     "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0/Tyuiu.SergeevSV.Sprint1.Task0.V0.csproj": {}
   },
   "projects": {
-    "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj": {
+    "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0/Tyuiu.SergeevSV.Sprint1.Task0.V0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj",
-        "projectName": "Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib",
-        "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj",
+        "projectUniqueName": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0/Tyuiu.SergeevSV.Sprint1.Task0.V0.csproj",
+        "projectName": "Tyuiu.SergeevSV.Sprint1.Task0.V0",
+        "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0/Tyuiu.SergeevSV.Sprint1.Task0.V0.csproj",
         "packagesPath": "/home/gres/.nuget/packages/",
-        "outputPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/obj/",
+        "outputPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gres/.nuget/NuGet/NuGet.Config"
@@ -25,7 +25,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj": {
+                "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -57,14 +61,14 @@
         }
       }
     },
-    "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0/Tyuiu.SergeevSV.Sprint1.Task0.V0.csproj": {
+    "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0/Tyuiu.SergeevSV.Sprint1.Task0.V0.csproj",
-        "projectName": "Tyuiu.SergeevSV.Sprint1.Task0.V0",
-        "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0/Tyuiu.SergeevSV.Sprint1.Task0.V0.csproj",
+        "projectUniqueName": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj",
+        "projectName": "Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib",
+        "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj",
         "packagesPath": "/home/gres/.nuget/packages/",
-        "outputPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0/obj/",
+        "outputPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gres/.nuget/NuGet/NuGet.Config"
@@ -78,11 +82,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj": {
-                "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

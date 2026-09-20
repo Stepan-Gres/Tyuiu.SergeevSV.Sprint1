@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj",
+      "projectUniqueName": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj",
       "projectName": "Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib",
-      "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj",
+      "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj",
       "packagesPath": "/home/gres/.nuget/packages/",
-      "outputPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/obj/",
+      "outputPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gres/.nuget/NuGet/NuGet.Config"

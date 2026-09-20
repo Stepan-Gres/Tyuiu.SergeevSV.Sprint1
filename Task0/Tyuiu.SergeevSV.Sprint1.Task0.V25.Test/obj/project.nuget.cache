@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XCNhH4sJZL0owDFgbsRCZ87CzAsLqvD9sSEj2ua414sQMLibLbrlPZ92ddG//KMyKBMPe8/Wh38lrGU1bLUW2A==",
+  "dgSpecHash": "RVz4ztGNjh0s9jZteFj84ny6hESB8dgxj5extvXsJGrswdoIAhmbAJp/DbTpyAZ4dTragv4RrUwyuXyBCbedOw==",
   "success": true,
-  "projectFilePath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Test/Tyuiu.SergeevSV.Sprint1.Task0.V0.Test.csproj",
+  "projectFilePath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Test/Tyuiu.SergeevSV.Sprint1.Task0.V0.Test.csproj",
   "expectedPackageFiles": [
     "/home/gres/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/home/gres/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",

@@ -17,8 +17,8 @@
   "libraries": {
     "Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/1.0.0": {
       "type": "project",
-      "path": "../Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj",
-      "msbuildProject": "../Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj"
+      "path": "../Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj",
+      "msbuildProject": "../Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj": {
-              "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj"
+            "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj": {
+              "projectPath": "/home/gres/Рабочий стол/C# projects/Tyuiu.SergeevSV.Sprint1/Task0/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V0.Lib.csproj"
             }
           }
         }
