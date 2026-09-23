@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib\Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib.csproj" />
+    <ProjectReference Include="../Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib/Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
@@ -16,6 +16,5 @@
       <HintPath>../../tyuiu.cources.programming.interfaces.dll</HintPath>
     </Reference>
   </ItemGroup>
-
 
 </Project>
