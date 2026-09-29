@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bde615b510289ac44a31998e25e6401ecabf170")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8e544ad4f7612189155436679d10ad88b5e3854")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
