@@ -13,8 +13,7 @@
           "Microsoft.NET.Test.Sdk": "17.6.0",
           "Tyuiu.SergeevSV.Sprint1.Task0.V25.Lib": "1.0.0",
           "coverlet.collector": "6.0.0",
-          "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0",
-          "tyuiu.cources.programming.interfaces": "1.0.0.0"
+          "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0"
         },
         "runtime": {
           "Tyuiu.SergeevSV.Sprint1.Task0.V25.Test.dll": {}
