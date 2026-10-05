@@ -12,7 +12,6 @@ namespace Tyuiu.SergeevSV.Sprint1.Task4.V16.Test
             DataService ds = new DataService();
             double x = 1.0;
             
-            // 1 / (1 + 4) = 1 / 5 = 0.2
             double expected = 0.2;
             double actual = ds.Calculate(x);
 
