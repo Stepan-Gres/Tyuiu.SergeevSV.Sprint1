@@ -1,0 +1,21 @@
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Tyuiu.SergeevSV.Sprint1.Task7.V16.Lib;
+
+namespace Tyuiu.SergeevSV.Sprint1.Task7.V16.Test
+{
+    [TestClass]
+    public class DataServiceTest
+    {
+        [TestMethod]
+        public void ValidExpression()
+        {
+            DataService ds = new DataService();
+            double x = 2.0;
+            
+            double expected = -0.105;
+            double actual = ds.Calculate(x);
+
+            Assert.AreEqual(expected, actual, 0.001);
+        }
+    }
+}
